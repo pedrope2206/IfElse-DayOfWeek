@@ -1,0 +1,16 @@
+C:\projetos\AMS\1ano\EstruturaSwitchCase\SwitchCaseDayOfWeek\DayOfWeekIfElse\bin\Debug\net5.0\DayOfWeekIfElse.exe
+C:\projetos\AMS\1ano\EstruturaSwitchCase\SwitchCaseDayOfWeek\DayOfWeekIfElse\bin\Debug\net5.0\DayOfWeekIfElse.deps.json
+C:\projetos\AMS\1ano\EstruturaSwitchCase\SwitchCaseDayOfWeek\DayOfWeekIfElse\bin\Debug\net5.0\DayOfWeekIfElse.runtimeconfig.json
+C:\projetos\AMS\1ano\EstruturaSwitchCase\SwitchCaseDayOfWeek\DayOfWeekIfElse\bin\Debug\net5.0\DayOfWeekIfElse.runtimeconfig.dev.json
+C:\projetos\AMS\1ano\EstruturaSwitchCase\SwitchCaseDayOfWeek\DayOfWeekIfElse\bin\Debug\net5.0\DayOfWeekIfElse.dll
+C:\projetos\AMS\1ano\EstruturaSwitchCase\SwitchCaseDayOfWeek\DayOfWeekIfElse\bin\Debug\net5.0\ref\DayOfWeekIfElse.dll
+C:\projetos\AMS\1ano\EstruturaSwitchCase\SwitchCaseDayOfWeek\DayOfWeekIfElse\bin\Debug\net5.0\DayOfWeekIfElse.pdb
+C:\projetos\AMS\1ano\EstruturaSwitchCase\SwitchCaseDayOfWeek\DayOfWeekIfElse\obj\Debug\net5.0\DayOfWeekIfElse.csproj.AssemblyReference.cache
+C:\projetos\AMS\1ano\EstruturaSwitchCase\SwitchCaseDayOfWeek\DayOfWeekIfElse\obj\Debug\net5.0\DayOfWeekIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\AMS\1ano\EstruturaSwitchCase\SwitchCaseDayOfWeek\DayOfWeekIfElse\obj\Debug\net5.0\DayOfWeekIfElse.AssemblyInfoInputs.cache
+C:\projetos\AMS\1ano\EstruturaSwitchCase\SwitchCaseDayOfWeek\DayOfWeekIfElse\obj\Debug\net5.0\DayOfWeekIfElse.AssemblyInfo.cs
+C:\projetos\AMS\1ano\EstruturaSwitchCase\SwitchCaseDayOfWeek\DayOfWeekIfElse\obj\Debug\net5.0\DayOfWeekIfElse.csproj.CoreCompileInputs.cache
+C:\projetos\AMS\1ano\EstruturaSwitchCase\SwitchCaseDayOfWeek\DayOfWeekIfElse\obj\Debug\net5.0\DayOfWeekIfElse.dll
+C:\projetos\AMS\1ano\EstruturaSwitchCase\SwitchCaseDayOfWeek\DayOfWeekIfElse\obj\Debug\net5.0\ref\DayOfWeekIfElse.dll
+C:\projetos\AMS\1ano\EstruturaSwitchCase\SwitchCaseDayOfWeek\DayOfWeekIfElse\obj\Debug\net5.0\DayOfWeekIfElse.pdb
+C:\projetos\AMS\1ano\EstruturaSwitchCase\SwitchCaseDayOfWeek\DayOfWeekIfElse\obj\Debug\net5.0\DayOfWeekIfElse.genruntimeconfig.cache

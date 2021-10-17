@@ -1,0 +1,31 @@
+Vantagens de se usar a estrutura If Else:
+Vantagens:
+
+O If Else deve ser usado quando o código nessecitar de uma comparação indispensavel.
+Uma da Vantagens é que você pode fazer varias comparações, tanto separadas quanto no mesmo  
+bloco de if else.
+É uma eestrutura simples e básica para qualquer programador.
+
+Desvantages:
+
+Para códigos muito extensos esta estrutura fica muito repetitiva e bangunçada de certa forma
+dificultando para o progamador identificar posteriores erros e fazer alterações etc.
+Para programar um código extenso também fica muito monótono e ruim para o programador usar 
+if else.
+
+Vantagens de se usar a estrutura Swtch case:
+Vantagens: 
+
+Para códigos muito extensos é exelente pois é rapido de escrever e simples de entender além de 
+que o código fica muito organizado facilitando posteriores alterações e identificação de erros.
+Linguagem básica e muito simples.
+ 
+Desvantagens: 
+
+A principal desvantgem de se usar o Swtch case em realação a estrutura If Else, é que no Swtch
+case não se pode fazer comparações nesta estrutura.
+Ela só é útil se for usada numa parte de cógico muito comprida, repetitiva e/ou monótona.
+
+
+
+
